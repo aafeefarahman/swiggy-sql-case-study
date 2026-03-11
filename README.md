@@ -1,6 +1,6 @@
 # 📊 Swiggy SQL Case Study
 
-## 📌 Project Overview
+## Project Overview📌
 
 This project explores a Swiggy-like food delivery dataset using SQL to answer business-oriented analytical questions. The goal of the project is to practice querying relational datasets, analyzing order patterns, and extracting insights related to restaurants, customers, delivery partners, and revenue.
 
@@ -8,7 +8,7 @@ This repository represents my **first SQL-based data analysis project**, created
 
 ---
 
-## 📂 Project Structure
+## Project Structure📂
 
 ```
 Swiggy
@@ -28,7 +28,7 @@ Swiggy
 
 ---
 
-## 🗂 File Description
+## File Description🗂
 
 **All-Datasets/**
 Contains all CSV files used to create the database tables.
@@ -41,7 +41,7 @@ Contains screenshots of executed queries and their results.
 
 ---
 
-## 🗄 Database Schema
+## Database Schema🗄
 
 The dataset consists of the following tables:
 
@@ -68,7 +68,7 @@ Contains details about customers using the platform.
 
 ---
 
-##  Case Study Analysis Questions ❔
+##  Case Study Analysis Questions❔
 
 The following analytical questions were explored in this project:
 
@@ -112,7 +112,7 @@ This project demonstrates the use of several SQL techniques including:
 
 ---
 
-## 📝 Project Note
+## Project Note📝
 
 This project was developed as an **introductory SQL analysis project** to build a strong foundation in querying relational databases and performing analytical queries.
 
@@ -126,7 +126,7 @@ The main objective was to explore how SQL can be used to answer business questio
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements🚀
 
 As a next step, I plan to expand my data analytics work by building a **separate end-to-end project** that will include:
 
