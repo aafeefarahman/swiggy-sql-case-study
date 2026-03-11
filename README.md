@@ -30,13 +30,13 @@ Swiggy
 
 ## File Description🗂
 
-**All-Datasets/**
+* **All-Datasets/**
 Contains all CSV files used to create the database tables.
 
-**Swiggyproject.sql**
+* **Swiggyproject.sql**
 Contains all SQL queries used to perform the analysis.
 
-**executions.pdf**
+* **executions.pdf**
 Contains screenshots of executed queries and their results.
 
 ---
