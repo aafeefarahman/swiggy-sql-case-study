@@ -2,9 +2,9 @@
 
 ## Project Overview📌
 
-This project explores a Swiggy-like food delivery dataset using SQL to answer business-oriented analytical questions. The goal of the project is to practice querying relational datasets, analyzing order patterns, and extracting insights related to restaurants, customers, delivery partners, and revenue.
+* This project explores a Swiggy-like food delivery dataset using SQL to answer business-oriented analytical questions. The goal of the project is to practice querying relational  datasets, analyzing order patterns, and extracting insights related to restaurants, customers, delivery partners, and revenue.
 
-This repository represents my **first SQL-based data analysis project**, created to strengthen foundational SQL skills and understand how structured datasets can be analyzed to answer real-world business questions.
+ * This repository represents my **first SQL-based data analysis project**, created to strengthen foundational SQL skills and understand how structured datasets can be analyzed to answer real-world business questions.
 
 ---
 
