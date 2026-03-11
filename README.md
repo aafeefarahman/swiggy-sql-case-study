@@ -45,25 +45,25 @@ Contains screenshots of executed queries and their results.
 
 The dataset consists of the following tables:
 
-**Delivery_Partner**
+* **Delivery_Partner**
 Contains information about delivery personnel.
 
-**Food**
+* **Food**
 Contains details about food items and food categories.
 
-**Menu**
+* **Menu**
 Contains pricing information for each food item offered by restaurants.
 
-**Order_Details**
+* **Order_Details**
 Stores details about each order and the food items included.
 
-**Orders**
+* **Orders**
 Contains order information including order value, delivery details, ratings, and timestamps.
 
-**Restaurants**
+* **Restaurants**
 Contains information about restaurants and their cuisines.
 
-**Users**
+* **Users**
 Contains details about customers using the platform.
 
 ---
