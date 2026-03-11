@@ -68,7 +68,7 @@ Contains details about customers using the platform.
 
 ---
 
-## ❓ Case Study Analysis Questions
+##  Case Study Analysis Questions ❔
 
 The following analytical questions were explored in this project:
 
@@ -94,7 +94,7 @@ The following analytical questions were explored in this project:
 
 ---
 
-## 🧠 SQL Techniques Used
+##  SQL Techniques Used❕
 
 This project demonstrates the use of several SQL techniques including:
 
